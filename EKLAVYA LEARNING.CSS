@@ -1,0 +1,31 @@
+ /* id selector */
+#para{
+    c2olor:green;
+    
+}
+
+/* class selector */
+
+.pppp{
+    color: blue;
+    background-color: black;
+}
+
+/* grouping selector */
+
+footer,span{
+    color:goldenrod;
+    font-style: italic;
+}
+
+/* # is used for id selector 
+  . is used for class selection 
+  id is unique and class is for common
+  , is used to select multiple things */
+    
+  /* element selector  */
+
+p{
+    border: 5px solid rebeccapurple ;
+}
+
